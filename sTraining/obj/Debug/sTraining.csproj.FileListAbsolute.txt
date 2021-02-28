@@ -1,0 +1,12 @@
+C:\Users\natan\Desktop\sTraining\sTraining\bin\Debug\sTraining.exe.config
+C:\Users\natan\Desktop\sTraining\sTraining\bin\Debug\sTraining.exe
+C:\Users\natan\Desktop\sTraining\sTraining\bin\Debug\sTraining.pdb
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.csprojAssemblyReference.cache
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.frmTraining.resources
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.Properties.Resources.resources
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.csproj.GenerateResource.cache
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.csproj.CoreCompileInputs.cache
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.exe
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.pdb
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.frmEventList.resources
+C:\Users\natan\Desktop\sTraining\sTraining\obj\Debug\sTraining.frmSpaceList.resources
